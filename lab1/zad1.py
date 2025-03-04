@@ -42,8 +42,8 @@ if (intelektualna_fala <= -0.5 or emocjonalna_fala <= -0.5 or fizyczna_fala <= -
         print("Nie wszystkie wyniki wyszły pozytywne, jutro bedzie lepiej!")
 
 
-print("")
-print(f"Wyniki jutro: {fizyczna_fala_jutro:.2f}, Emocjonalna fala: {emocjonalna_fala_jutro:.2f}, Intelektualna fala: {intelektualna_fala_jutro:.2f}")
+# print("")
+# print(f"Wyniki jutro: {fizyczna_fala_jutro:.2f}, Emocjonalna fala: {emocjonalna_fala_jutro:.2f}, Intelektualna fala: {intelektualna_fala_jutro:.2f}")
 
 
 # zajelo mi okolo 40min
